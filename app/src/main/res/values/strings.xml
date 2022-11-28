@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fibonacci</string>
+    <string name="page_tittle">Paket Seçildi</string>
+    <string name="imput_text_name">Kullanıcı Adı</string>
+    <string name="imput_text_email">Email</string>
+    <string name="imput_password">Şifre</string>
+    <string name="register_imput_password">Şifre Tekrar</string>
+    <string name="sloogan">Çalışmanızı düzene sokmaya hazır mısınız ?</string>
+    <string name="login_button_text">Giriş Yap</string>
+    <string name="register_button_text">Hesap Oluştur</string>
+</resources>
